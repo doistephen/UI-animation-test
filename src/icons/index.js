@@ -1,0 +1,6 @@
+export { default as IconClose } from './IconClose'
+export { default as IconClosedThread } from './IconClosedThread'
+export { default as IconIntegration } from './IconIntegration'
+export { default as IconLink } from './IconLink'
+export { default as IconMore } from './IconMore'
+export { default as IconUnread } from './IconUnread'
